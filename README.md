@@ -1,4 +1,10 @@
-# Astro Starter Kit: Minimal
+# This project is part of the [Astro.build Blog Tutorial](https://astro.build/blog/). 
+
+I had so much fun coding this and actually understanding what Markdown does behind the scenes. 🌟
+
+If you're curious about Astro or Markdown, I highly recommend diving in—it's incredibly rewarding!
+
+Feel free to explore the code and let me know what you think. 🚀
 
 ```sh
 npm create astro@latest -- --template minimal
